@@ -1,0 +1,17 @@
+[
+    {
+        "lr": 0.0001,
+        "batch_size": 16,
+        "val_accuracy": 0.6829268336296082
+    },
+    {
+        "lr": 1e-05,
+        "batch_size": 16,
+        "val_accuracy": 0.6707317233085632
+    },
+    {
+        "lr": 0.0001,
+        "batch_size": 32,
+        "val_accuracy": 0.6951219439506531
+    }
+]
